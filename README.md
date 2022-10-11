@@ -1,4 +1,4 @@
-# lmc2700_assignment-3
+# lmc2700_JSbasics
  This is an exercise to develop your skills in working with Javascript functions.  The goal is to create a set of functions to handle an array of data about movies.
 
 In the attached file (script.js), you will see the skeletons for 5 functions,  which together can create and manipulate the array of movies. Each movie is represented by an object, which consists of a title, a rating for how good the movie is from 1-5, and a boolean indicating whether you have watched the movie. Your assignment is to write the code for each function so that it will store and process the data, and generate the stated output. The code requires conditionals, loops, functions, and objects to complete the project. The functions are:
